@@ -1,0 +1,45 @@
+#margin{
+    margin:10px 0px 0px 5px;
+    
+}
+#search{
+   margin-right:50px;
+  length:60px;
+  width: 545px;
+}
+
+ table tr td{
+   padding:12px;
+  
+   border-spacing: 0px;
+ }
+
+ #button{
+    background-color: blue;
+    color:azure;
+ }
+ #border{
+   border:3px solid grey ;
+   margin-top: 40px;
+ }
+
+ #delete{
+  margin: 12px  20px 15px 10px;
+  background-color: red;
+  color:white;
+  border:2px solid red;
+  border-radius: 25px ;
+ }
+
+ #bottom{
+  
+  word-spacing: 10px;
+ }
+
+ .edit-delete{
+color:red;
+ }
+
+ .edit-delete:hover{
+  color:rgb(0, 255, 81);
+   }
